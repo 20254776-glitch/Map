@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(175, 87, 87);
+    font-family: verdana;
+    text-align: center;
+}
+header{
+    font-family: georgia;
+    background-color:rgb(209, 165, 95);
+    color:darkgreen;
+    padding: 1.5%;
+    border: 2px solid black;
+}
+header p{
+    background-color:rgb(209, 165, 95) ;
+}
+body #home{
+    margin-top: 2%;
+    margin-bottom: 1.5%;
+    background-color:rgb(209, 165, 95);
+    padding: 0.5%;
+    border: 2px solid black;
+
+}
+body #attractions{
+    margin-top: 2%;
+    margin-bottom: 1.5%;
+    background-color:rgb(209, 165, 95);
+    padding: 0.5%;
+    border: 2px solid black;
+}
+body #hom{
+    margin-top: 2%;
+    margin-bottom: 1.5%;
+    background-color:rgb(209, 165, 95);
+    padding: 0.5%;
+    border: 2px solid black;
+}
+
