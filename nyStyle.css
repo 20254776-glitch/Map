@@ -13,7 +13,7 @@ header{
 header p{
     background-color:rgb(209, 165, 95) ;
 }
-body #home{
+body #intro{
     margin-top: 2%;
     margin-bottom: 1.5%;
     background-color:rgb(209, 165, 95);
@@ -28,11 +28,12 @@ body #attractions{
     padding: 0.5%;
     border: 2px solid black;
 }
-body #hom{
+body #info{
     margin-top: 2%;
     margin-bottom: 1.5%;
     background-color:rgb(209, 165, 95);
     padding: 0.5%;
     border: 2px solid black;
 }
+
 
